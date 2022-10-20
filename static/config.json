@@ -1,0 +1,6 @@
+{
+  "database": {
+    "host": "mongodb://localhost/lrcore_v2",
+    "port": "27017"
+  }
+}
