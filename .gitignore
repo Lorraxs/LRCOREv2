@@ -3,3 +3,5 @@ dist/
 node_modules/
 yarn-error.log
 yarn.lock
+LRCORE2/
+lr_core_v2/
